@@ -9,8 +9,11 @@ We are a team of creative minds and event enthusiasts committed to revolutionizi
 🚀 Our Promise:
 
 📆 Affordability: Say goodbye to extravagant event planning costs and embrace our budget-friendly approach.
+
 🎨 Customization: We believe in the beauty of uniqueness. Tailor your events to reflect your style and personality.
+
 💬 Community: Join a thriving community of event enthusiasts who share your passion for fun, creativity, and innovation.
+
 🔗 Get Involved:
 
 Join us in our mission to make event planning a delightful experience for all. Whether you're a developer, designer, or simply someone who loves having fun, there's a place for you in the Fun Event Systems community.
